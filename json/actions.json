@@ -1,0 +1,6 @@
+{
+  "fly": "move",
+  "go": "move",
+  "move": "move",
+  "hover": "move"
+}
